@@ -5,7 +5,7 @@ I'm a passionate developer with experience in building web, mobile, and desktop 
 - 👀 I'm interested in creating innovative and user-friendly software solutions.
 - 🌱 I'm constantly learning and staying up-to-date with the latest technologies.
 - 💞️ I'm open to collaborating on exciting projects and contributing to the open-source community.
-- 📫 You can reach me at contact.hichamamazigh@gmail.com(mailto:contact.hichamamazigh@gmail.com).
+- 📫 You can reach me at contact.hichamamazigh@gmail.com
 
 ## Technologies I Work With
 
