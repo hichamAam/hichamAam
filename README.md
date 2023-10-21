@@ -12,12 +12,11 @@ I'm a passionate developer with experience in building web, mobile, and desktop 
 - HTML, CSS, JavaScript, TypeScript
 - Bootstrap, Tailwind CSS
 - ReactJS, Next.js
-- PHP, Laravel, Express.js, Node.js
+- PHP, Laravel, Express.js, Node.js, python, django
 - Linux, Docker
 - Prisma, PostgreSQL, MySQL, SQL
 - AWS (Amazon Web Services)
 - Apache, Nginx
-- C/C++
 - Flutter
 - cPanel, CloudPanel
 
