@@ -13,11 +13,14 @@ I'm a passionate developer with experience in building web, mobile, and desktop 
 - Bootstrap, Tailwind CSS
 - ReactJS, Next.js
 - PHP, Laravel, Express.js, Node.js, python, django
-- Linux, Docker
+- Linux, MacOS, Windows
 - Prisma, PostgreSQL, MySQL, SQL
 - AWS (Amazon Web Services)
 - Apache, Nginx
 - Flutter
 - cPanel, CloudPanel
+
+## Funny Fact : 
+Instead of staring at the screen while typing quickly, I staring at the keyboard for faster typing 😂
 
 Feel free to explore my repositories to see some of my work, and don't hesitate to get in touch if you'd like to collaborate or have any questions!
